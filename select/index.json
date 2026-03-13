@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Bokuga Shinouto Omottanoha",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-13T12:25:24.820912Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bokuga Shinouto Omottanoha",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_Bokuga_Shinouto_Omottanoha_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BOKUGA SHINOUTO OMOTTANOHA - From THE FIRST TAKE",
+      "artist": "Mika Nakashima",
+      "has_synced": false,
+      "path": "select/02_BOKUGA_SHINOUTO_OMOTTANOHA_-_From_THE_FIRST_TAKE_Mika_Nakashima.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bokuga Shinouto Omottanoha",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/03_Bokuga_Shinouto_Omottanoha_amazarashi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boku Ga Shinouto Omottanoha",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_Boku_Ga_Shinouto_Omottanoha_amazarashi.txt"
+    }
+  ]
+}
